@@ -1,2 +1,6 @@
 Trying to write in the file using git.
+<<<<<<< HEAD
 second line
+=======
+second line in git
+>>>>>>> f7914709346b2824eeecd28c6cc71516fcd5c1d7
